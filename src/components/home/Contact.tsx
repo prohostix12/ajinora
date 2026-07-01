@@ -97,13 +97,13 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm font-bold text-slate-400 uppercase tracking-widest">Visit Us</p>
-                  <a 
-                    href="https://maps.google.com/?q=Lal+Bahadur+St,+Kochi,+Kerala" 
-                    target="_blank" 
+                  <a
+                    href="https://maps.google.com/?q=1st+Floor,+BM+Complex,+opp.+St.+George+Forane+Church,+Edappally,+Kochi,+Ernakulam,+Kerala+682024"
+                    target="_blank"
                     rel="noopener noreferrer"
                     className="text-xl font-bold text-dark hover:text-primary-green transition-colors"
                   >
-                    Lal Bahadur St, Kochi, Kerala
+                    1st Floor, BM Complex, opp. St. George Forane Church, Edappally, Kochi, Ernakulam, Kerala 682024
                   </a>
                 </div>
               </div>

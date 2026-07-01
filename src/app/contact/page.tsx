@@ -26,7 +26,7 @@ export default function ContactPage() {
           <div className="w-full h-[600px] bg-slate-100 rounded-[4rem] overflow-hidden border border-slate-100 shadow-inner flex items-center justify-center relative group">
              <div className="absolute inset-0 grayscale group-hover:grayscale-0 transition-all duration-700">
                <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125745.71761623808!2d76.22359487771236!3d9.975456488344583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080d514ab7d0c5%3A0xa126788e0b9687e8!2sKochi%2C%20Kerala!5e0!3m2!1sen!2sin!4v1709485123456!5m2!1sen!2sin" 
+                src="https://www.google.com/maps?q=1st+Floor,+BM+Complex,+opp.+St.+George+Forane+Church,+Edappally,+Kochi,+Ernakulam,+Kerala+682024&output=embed"
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 

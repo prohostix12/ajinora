@@ -66,13 +66,13 @@ const Footer = () => {
             <ul className="space-y-6">
               <li className="flex items-start gap-4">
                 <MapPin className="text-primary-green shrink-0 mt-1" size={20} />
-                <a 
-                  href="https://maps.google.com/?q=123+Education+Hub,+Near+Central+Square,+Kochi,+Kerala" 
-                  target="_blank" 
+                <a
+                  href="https://maps.google.com/?q=1st+Floor,+BM+Complex,+opp.+St.+George+Forane+Church,+Edappally,+Kochi,+Ernakulam,+Kerala+682024"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-400 font-bold leading-tight hover:text-primary-green transition-colors"
                 >
-                  123 Education Hub, Near Central Square, Kochi, Kerala
+                  1st Floor, BM Complex, opp. St. George Forane Church, Edappally, Kochi, Ernakulam, Kerala 682024
                 </a>
               </li>
               <li className="flex items-center gap-4">
